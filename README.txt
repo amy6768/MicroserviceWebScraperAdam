@@ -17,8 +17,8 @@ C. UML Sequence Diagram -
         App                  callStocks.py            stocks.py                   URL   
  ------------------         --------------           ----------               ----------
          |                        |                       |                        |
-    [User selects
-    stocks from ----------->      |                       |                        |
+    [User selects a
+    stock from ----------->      |                       |                        |
     a drop-down   
     menu]                    [Subprocess call             |                        |
         |   |                    to stocks.py] ------->    
