@@ -37,6 +37,6 @@ C. UML Sequence Diagram -
         |   |                    |   |                    X
         |   |                    |   |
         |   |      <--------- [.txt file is saved]
-    [.txt file is diplayed      in app]
+    [.txt file is displayed     in app]
     on app screen]                  X
           X
