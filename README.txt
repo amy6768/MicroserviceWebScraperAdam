@@ -18,7 +18,7 @@ C. UML Sequence Diagram -
  ------------------         --------------           ----------               ----------
          |                        |                       |                        |
     [User selects a
-    stock from ----------->      |                       |                        |
+    stock from ----------->       |                       |                        |
     a drop-down   
     menu]                    [Subprocess call             |                        |
         |   |                    to stocks.py] ------->    
